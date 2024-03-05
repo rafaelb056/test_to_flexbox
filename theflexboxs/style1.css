@@ -1,0 +1,19 @@
+.container {
+  background-color: lightblue;
+  padding: 16px;
+  border: 4px solid blue;
+  margin: 8px;
+  display: flex;
+  column-gap: 10px;
+  width: 800px;
+  
+}
+
+.item{
+  background: peachpuff;
+  border: 4px solid salmon;
+  height: 48px;
+  flex: 1;
+  padding: 4px;
+} 
+
